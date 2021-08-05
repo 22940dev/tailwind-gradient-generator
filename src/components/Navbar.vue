@@ -43,26 +43,6 @@
           Presets
         </router-link>
       </div>
-      <ul class="flex">
-        <li>
-          <iframe
-            src="https://ghbtns.com/github-btn.html?user=buzz-js&repo=tailwind-gradient-generator&type=star&count=true"
-            frameborder="0"
-            scrolling="0"
-            width="150"
-            height="20"
-            title="GitHub"
-          ></iframe>
-        </li>
-        <li>
-          <a
-            class="twitter-share-button"
-            href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftailwind-gradient-generator.vercel.app%2F&via=reliutg&text=Try%20it%2C%20you%20will%20love%20it&hashtags=tailwind-gradient-generator"
-          >
-            Tweet</a
-          >
-        </li>
-      </ul>
     </div>
   </nav>
 </template>

@@ -26,7 +26,7 @@
     "eslint-plugin-vue": "^7.15.1",
     "fibers": "^5.0.0",
     "sass": "^1.37.5",
-    "sass-loader": "^12.1.0"
+    "sass-loader": "^10.1.1"
   },
   "peerDependencies": {
     "vue-template-compiler": "^2.6.14"
@@ -51,13 +51,13 @@
     "not dead"
   ],
   "bugs": {
-    "url": "https://github.com/buzz-js/tailwind-gradient-generator/issues"
+    "url": "https://github.com/22940dev/tailwind-gradient-generator/issues"
   },
-  "homepage": "https://github.com/buzz-js/tailwind-gradient-generator#readme",
+  "homepage": "https://github.com/22940dev/tailwind-gradient-generator#readme",
   "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buzz-js/tailwind-gradient-generator.git"
+    "url": "git+https://github.com/22940dev/tailwind-gradient-generator.git"
   }
 }
